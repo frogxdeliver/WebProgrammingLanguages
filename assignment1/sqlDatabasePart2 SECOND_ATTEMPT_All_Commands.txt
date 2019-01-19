@@ -1,0 +1,18 @@
+azure cloud
+Line 1: az group create --name myResourceGroup2 --location "eastUS"    
+Line 2: az sql server create --name assignment1part2 --resource-group myResourceGroup2 --location "eastus" --admin-user auser1 --admin-password WKLidn830***
+Line 3: az sql server firewall-rule create --resource-group myResourceGroup2 --server assignment1part2 --nameAllowYourIp --start-ip-address 0.0.0.0 --end-ip-address 0.0.0.0
+Line 4: az sql db create --resource-group myResourceGroup2 --server assignment1part2 --name coreDB --service-objective S0
+Line 5: Server=tcp:assignment1part2.database.windows.net,1433;Database=coreDB;UserID=auser1;Password=WKLidn830***;Encrypt=true;ConnectionTimeout=30;
+
+***admin username & pass***
+Line 6: az webapp deployment user set --user-name adminLukas39 --password WKLidn830***
+***admin username & pass***
+
+Line 7: az appservice plan create --name myAppServicePlan --resource-group myResourceGroup --sku FREE
+Line 8: az webapp create --resource-group myResourceGroup --plan myAppServicePlan --name testpart2webdesign --deployment-local-git
+output from 8: 
+Local git is configured with url of 'https://adminLukas39@testpart2webdesign.scm.azurewebsites.net/testpart2webdesign.git'
+
+line 9: az webapp config connection-string set --resource-group myResourceGroup --name testpart2webdesign --settings MyDbConnection='https://adminLukas39@testpart2webdesign.scm.azurewebsites.net/testpart2webdesign.git' --connection-string-type SQLServer
+
