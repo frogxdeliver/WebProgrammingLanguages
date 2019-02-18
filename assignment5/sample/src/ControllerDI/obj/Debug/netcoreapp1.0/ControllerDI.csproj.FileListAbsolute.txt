@@ -1,0 +1,11 @@
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\bin\Debug\netcoreapp1.0\ControllerDI.deps.json
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\bin\Debug\netcoreapp1.0\ControllerDI.runtimeconfig.json
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\bin\Debug\netcoreapp1.0\ControllerDI.runtimeconfig.dev.json
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\bin\Debug\netcoreapp1.0\ControllerDI.dll
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\bin\Debug\netcoreapp1.0\ControllerDI.pdb
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.csprojAssemblyReference.cache
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.csproj.CoreCompileInputs.cache
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.AssemblyInfoInputs.cache
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.AssemblyInfo.cs
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.dll
+C:\Users\bobal\OneDrive\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment5\sample\src\ControllerDI\obj\Debug\netcoreapp1.0\ControllerDI.pdb
