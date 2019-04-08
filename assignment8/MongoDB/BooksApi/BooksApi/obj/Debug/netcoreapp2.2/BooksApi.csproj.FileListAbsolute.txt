@@ -1,0 +1,14 @@
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\bobal\Desktop\classes\Web Programming Languages\WebProgrammingLanguages\assignment8\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
